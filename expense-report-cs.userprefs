@@ -1,9 +1,33 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="expense-report-cs\Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="expense-report-cs.Test\Test.cs">
     <Files>
       <File FileName="expense-report-cs\Main.cs" Line="13" Column="1" />
+      <File FileName="expense-report-cs.Test\Test.cs" Line="16" Column="1" />
+      <File FileName="expense-report-cs\Expense.cs" Line="6" Column="13" />
+      <File FileName="expense-report-cs\ExpenseReport.cs" Line="14" Column="7" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="expense-report-cs" expanded="True" selected="True" />
+          <Node name="expense-report-cs.Test" expanded="True">
+            <Node name="References" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True">
+          <Node name="expense-report-cs.Test" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

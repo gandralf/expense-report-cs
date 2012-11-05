@@ -7,7 +7,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{CCB60E82-6DC1-4FA9-9C68-EEDF5973C554}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>expensereportcs</RootNamespace>
+    <RootNamespace>expensereport</RootNamespace>
     <AssemblyName>expense-report-cs</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
@@ -36,6 +36,9 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Expense.cs" />
+    <Compile Include="ExpenseReport.cs" />
+    <Compile Include="ReportPrinter.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

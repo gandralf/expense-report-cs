@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "expense-report-cs", "expense-report-cs\expense-report-cs.csproj", "{CCB60E82-6DC1-4FA9-9C68-EEDF5973C554}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "expense-report-cs.Test", "expense-report-cs.Test\expense-report-cs.Test.csproj", "{F6CCF8AD-817B-46DB-A5E5-763752F961A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{CCB60E82-6DC1-4FA9-9C68-EEDF5973C554}.Debug|x86.Build.0 = Debug|x86
 		{CCB60E82-6DC1-4FA9-9C68-EEDF5973C554}.Release|x86.ActiveCfg = Release|x86
 		{CCB60E82-6DC1-4FA9-9C68-EEDF5973C554}.Release|x86.Build.0 = Release|x86
+		{F6CCF8AD-817B-46DB-A5E5-763752F961A0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F6CCF8AD-817B-46DB-A5E5-763752F961A0}.Debug|x86.Build.0 = Debug|Any CPU
+		{F6CCF8AD-817B-46DB-A5E5-763752F961A0}.Release|x86.ActiveCfg = Release|Any CPU
+		{F6CCF8AD-817B-46DB-A5E5-763752F961A0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = expense-report-cs\expense-report-cs.csproj
